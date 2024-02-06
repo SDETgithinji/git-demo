@@ -1,6 +1,8 @@
 This a list of things to do
 
-Java 
+Practic Java 
 
 Python
+
+new things from git
 
